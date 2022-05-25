@@ -16,7 +16,7 @@ The below examples are hosted in Google Colab an environment to run Jupyter note
 
 # MATLAB Examples
 
-1 [Basic Plotting](https://github.com/amplabs-ai/examples/blob/main/matlab/basic_plot.m)
+1. [Basic Plotting](https://github.com/amplabs-ai/examples/blob/main/matlab/basic_plot.m)
 
 # How to Contribute
 
