@@ -1,22 +1,37 @@
 # About Us
 
+Tools for scientists, researchers, and engineers to analyze, publish, and collaborate in order to modernize our energy systems.
 
-# AmpLabs API
+# AmpLabs Platform
 
-[API Doc](http://amplabs.ai/api/)
+AmpLabs is a community managed and maintained Battery Data Platform that helps you organize, harmonize, search, and plot your data. 
 
-# Python Examples
+Built off of the [Battery Lifecycle Framework](https://github.com/battery-lcf) with integrations into other community projects such as [BEEP](https://github.com/TRI-AMDD/beep) and [Galvanalyser](https://github.com/Battery-Intelligence-Lab/galvanalyser). These projects are related to the [Battery Data Genome](https://arxiv.org/abs/2109.07278)
 
-The below examples are hosted in Google Colab an environment to run Jupyter notebooks. These are implemented in python but the concepts can be applied in any language. 
+Try out the live community version of AmpLabs by visiting https://amplabs.ai
+
+# Examples
+
+This repo is the home for AmpLabs examples. These show the various AmpLabs features.
+
+## Python Examples
+
+The below examples are hosted in Google Colab, an environment that helps users run Jupyter notebooks with no setup required. These examples are implemented in python but the concepts can be applied to any language. 
 
 1. [Basic Plotting](https://colab.research.google.com/drive/1W__QNY5ywQwl8D-j7uQC6i0AhaXMfjVR?usp=sharing)
 
 2. [Experiments vs Simulation](https://colab.research.google.com/drive/1gSOjMaVLE24EBzHxe0wx6QP-9rSrWOPc?usp=sharing)
 
 
-# MATLAB Examples
+## MATLAB Examples
 
 1. [Basic Plotting](https://github.com/amplabs-ai/examples/blob/main/matlab/basic_plot.m)
 
+# How to Integrate
+
+[API Doc](http://amplabs.ai/api/)
+
+
 # How to Contribute
 
+All great contributions start with an issue/ticket. If you have features you would like to see it's best to start with filing a github issue describing what you want the new feature to be. Then we can discuss how to best design and develop it.
