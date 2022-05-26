@@ -4,7 +4,7 @@ Tools for scientists, researchers, and engineers to analyze, publish, and collab
 
 # AmpLabs Platform
 
-AmpLabs is a managed and maintained Battery Data Platform that helps you organize, harmonize, plot, and publish your data. 
+AmpLabs is a community managed and maintained Battery Data Platform that helps you organize, harmonize, plot, and publish your data. 
 
 Built off of the [Battery Lifecycle Framework](https://github.com/battery-lcf) with integrations into other community projects such as [BEEP](https://github.com/TRI-AMDD/beep) and [Galvanalyser](https://github.com/Battery-Intelligence-Lab/galvanalyser). AmpLabs puts these components together in a scalable and performant way to bring the concepts introduced by the [Battery Data Genome](https://arxiv.org/abs/2109.07278) in a user friendly manner. 
 
