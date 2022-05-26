@@ -10,11 +10,15 @@ Built off of the [Battery Lifecycle Framework](https://github.com/battery-lcf) w
 
 Try out the live community version of AmpLabs by visiting https://amplabs.ai
 
-# Examples
+# How to Use
+
+AmpLabs is a cloud platform. The platform can be accessed by visiting https://amplabs.ai or via AmpLabs API. Information about how AmpLabs API works can be found on [AmpLabs API Docs](http://amplabs.ai/api/). Each of the following examples show how to interact with AmpLabs API to do useful work.
+
+## Examples
 
 This repo is the home for AmpLabs examples.
 
-## Python Examples
+### Python Examples
 
 The below examples are hosted in Google Colab, an environment that helps users run Jupyter notebooks with no setup required. These examples are implemented in python but the concepts can be applied to any language. 
 
@@ -23,17 +27,13 @@ The below examples are hosted in Google Colab, an environment that helps users r
 2. [Experiments vs Simulation](https://colab.research.google.com/drive/1gSOjMaVLE24EBzHxe0wx6QP-9rSrWOPc?usp=sharing)
 
 
-## MATLAB Examples
+### MATLAB Examples
 
 The below examples are matlab files that can run on a matlab instance.
 
 1. [Basic Plotting](https://github.com/amplabs-ai/examples/blob/main/matlab/basic_plot.m)
 
-# How to Integrate
-
-[API Doc](http://amplabs.ai/api/)
-
 
 # How to Contribute
 
-All great contributions start with an issue/ticket. If you have features you would like to see it's best to start with filing a github issue describing what you want the new feature to be. Then we can discuss how to best design and develop it.
+All great contributions start with an ticket. If you have features you would like to see it's best to start with filing a github ticket describing what you want the new feature to be. Then we can discuss how to best design and develop it.
