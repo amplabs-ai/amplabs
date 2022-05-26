@@ -12,7 +12,7 @@ Try out the live community version of AmpLabs by visiting https://amplabs.ai
 
 # Examples
 
-This repo is the home for AmpLabs examples. These show the various AmpLabs features.
+This repo is the home for AmpLabs examples.
 
 ## Python Examples
 
