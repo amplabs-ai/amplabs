@@ -2,6 +2,7 @@
 
 Tools for scientists, researchers, and engineers to analyze, publish, and collaborate in order to modernize our energy systems.
 
+
 # AmpLabs Platform
 
 AmpLabs is a community managed and maintained Battery Data Platform that helps you organize, harmonize, plot, and publish your data. 
@@ -10,13 +11,15 @@ Built off of the [Battery Lifecycle Framework](https://github.com/battery-lcf) w
 
 Try out the live hosted version of AmpLabs by visiting https://amplabs.ai
 
+If you are interested in deploying AmpLabs in your battery lab please email us at ask@amplabs.ai
+
 # How to Use
 
 AmpLabs is a cloud platform. The platform can be accessed by visiting https://amplabs.ai or via AmpLabs API. Information about how AmpLabs API works can be found on [AmpLabs API Docs](http://amplabs.ai/api/). Each of the following examples show how to interact with AmpLabs API to do useful work.
 
-## Examples
+This repository contains worked examples of how to integrate into AmpLabs Cloud from various systrems using the AmpLabs API. If there are systems you'd like AmpLabs to integrate into please start by filing a GitHub Issue
 
-This repo is the home for AmpLabs examples.
+## Examples
 
 ### Python Examples
 
@@ -32,7 +35,6 @@ The below examples are hosted in Google Colab, an environment that helps users r
 The below examples are matlab files that can run on a matlab instance.
 
 1. [Basic Plotting](https://github.com/amplabs-ai/examples/blob/main/matlab/basic_plot.m)
-
 
 # How to Contribute
 
