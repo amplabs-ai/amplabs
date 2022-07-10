@@ -17,7 +17,7 @@ If you are interested in deploying AmpLabs in your battery lab please email us a
 
 AmpLabs is a cloud platform. The platform can be accessed by visiting https://amplabs.ai or via AmpLabs API. Information about how AmpLabs API works can be found on [AmpLabs API Docs](http://amplabs.ai/api/). Each of the following examples show how to interact with AmpLabs API to do useful work.
 
-This repository contains worked examples of how to integrate into AmpLabs Cloud from various systrems using the AmpLabs API. If there are systems you'd like AmpLabs to integrate into please start by filing a GitHub Issue
+This repository contains worked examples of how to integrate into AmpLabs Cloud from various systems using the AmpLabs API. If there are systems you'd like AmpLabs to integrate into please start by filing a GitHub Issue
 
 ## Examples
 
