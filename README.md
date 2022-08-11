@@ -39,3 +39,8 @@ The below examples are matlab files that can run on a matlab instance.
 # How to Contribute
 
 All great contributions start with an ticket. If you have features you would like to see it's best to start with filing a github ticket describing what you want the new feature to be. Then we can discuss how to best design and develop it.
+
+
+# Deployment
+
+If you're interested in hosting your own deployment of AmpLabs for your own battery data project, please email ask@amplabs.ai.
