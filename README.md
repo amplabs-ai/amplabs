@@ -8,15 +8,44 @@ We want to close the gaps on solved problems so that teams can focus on building
 
 [AmpLabs Community Slideshow](https://docs.google.com/presentation/d/19xpzwuIjc5TQ-UhNoNxo6E7rfe10jLcAs54MrOwRJSo/edit?usp=sharing)
 
-# AmpLabs Platform
+# Problem Statement
 
-AmpLabs is a community managed and maintained Battery Data Platform that helps you organize, harmonize, plot, and publish your data. 
+2 Fundamental Problems facing the Battery Industry as Identified in the [Battery Data Genome](https://arxiv.org/abs/2109.07278). 
+
+**Heterogeneity**
+
+> Establishing the data and metadata conventions that will make heterogeneous data useful and enable interoperability, and rapid, large-scale capture of data from many sources and contributors
+
+**Scale**
+
+> Modern data science methods require large amounts of data and the battery community lacks the requisite scalable, standardized data hubs required for immediate use of these approaches. Lack of uniform data practices is a central barrier to the scale problem.
+
+# Project Objectives
+
+Build useful software that **anyone** who works with batteries can use
+
+Build a sturdy **foundation** upon which other developers can build on top
+
+Build a library of **reusable components** that develop software & data standards
+
+# Key Areas of Focus
+
+- Library of Cycler Converters
+
+- Schema Mapping
+
+- API Ecosystem
+
+- Dashboard with Standard Plots
+
+
+# AmpLabs Platform
 
 Built off of the [Battery Lifecycle Framework](https://github.com/battery-lcf) with integrations into other community projects such as [BEEP](https://github.com/TRI-AMDD/beep) and [Galvanalyser](https://github.com/Battery-Intelligence-Lab/galvanalyser). AmpLabs puts these components together in a scalable and performant way to bring the concepts introduced by the [Battery Data Genome](https://arxiv.org/abs/2109.07278) in a user friendly manner. 
 
 Try out the live hosted version of AmpLabs by visiting https://amplabs.ai
 
-If you are interested in deploying AmpLabs in your battery lab please email us at ask@amplabs.ai
+If you are interested in deploying AmpLabs in your own lab, you can do so with the [Ampcloud Service](https://github.com/amplabs-ai/ampcloud-service)
 
 # How to Use
 
