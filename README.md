@@ -47,6 +47,9 @@ Try out the live hosted version of AmpLabs by visiting https://amplabs.ai
 
 If you are interested in deploying AmpLabs in your own lab, you can do so with the [Ampcloud Service](https://github.com/amplabs-ai/ampcloud-service)
 
+![Data Flow Design](https://github.com/amplabs-ai/amplabs/blob/main/img/dataflow.png)
+
+
 # How to Use
 
 AmpLabs is a cloud platform. The platform can be accessed by visiting https://amplabs.ai or via AmpLabs API. Information about how AmpLabs API works can be found on [AmpLabs API Docs](http://amplabs.ai/api/). Each of the following examples show how to interact with AmpLabs API to do useful work.
