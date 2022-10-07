@@ -1,7 +1,12 @@
 # About Us
 
-Tools for scientists, researchers, and engineers to analyze, publish, and collaborate in order to modernize our energy systems.
+AmpLabs helps teams build better batteries. 
 
+Building off of the great Open Source work related to the Battery Data Genome, we are developing the components to realize an Open Source Battery Data Platform to help the entire battery value chain cut down on redundant work. 
+
+We want to close the gaps on solved problems so that teams can focus on building better batteries.  
+
+[AmpLabs Community Slideshow](https://docs.google.com/presentation/d/19xpzwuIjc5TQ-UhNoNxo6E7rfe10jLcAs54MrOwRJSo/edit?usp=sharing)
 
 # AmpLabs Platform
 
@@ -18,6 +23,7 @@ If you are interested in deploying AmpLabs in your battery lab please email us a
 AmpLabs is a cloud platform. The platform can be accessed by visiting https://amplabs.ai or via AmpLabs API. Information about how AmpLabs API works can be found on [AmpLabs API Docs](http://amplabs.ai/api/). Each of the following examples show how to interact with AmpLabs API to do useful work.
 
 This repository contains worked examples of how to integrate into AmpLabs Cloud from various systems using the AmpLabs API. If there are systems you'd like AmpLabs to integrate into please start by filing a GitHub Issue
+
 
 ## Examples
 
