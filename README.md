@@ -50,6 +50,13 @@ If you are interested in deploying AmpLabs in your own lab, you can do so with t
 ![Data Flow Design](https://github.com/amplabs-ai/amplabs/blob/main/img/dataflow.png)
 
 
+# Vision
+
+Standard data tools and practices built from the data hub standards will create a new data app marketplace.
+
+![Data Marketplace](https://github.com/amplabs-ai/amplabs/blob/main/img/marketplace.png)
+
+
 # How to Use
 
 AmpLabs is a cloud platform. The platform can be accessed by visiting https://amplabs.ai or via AmpLabs API. Information about how AmpLabs API works can be found on [AmpLabs API Docs](http://amplabs.ai/api/). Each of the following examples show how to interact with AmpLabs API to do useful work.
