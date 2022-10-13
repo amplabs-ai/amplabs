@@ -39,6 +39,12 @@ Build a library of **reusable components** that develop software & data standard
 - Dashboard with Standard Plots
 
 
+# Milestones
+
+Standard data tools and practices built from the data hub standards will create a new data app marketplace.
+
+![Data Marketplace](https://github.com/amplabs-ai/amplabs/blob/main/img/marketplace.png)
+
 # AmpLabs Platform
 
 Built off of the [Battery Lifecycle Framework](https://github.com/battery-lcf) with integrations into other community projects such as [BEEP](https://github.com/TRI-AMDD/beep) and [Galvanalyser](https://github.com/Battery-Intelligence-Lab/galvanalyser). AmpLabs puts these components together in a scalable and performant way to bring the concepts introduced by the [Battery Data Genome](https://arxiv.org/abs/2109.07278) in a user friendly manner. 
@@ -49,12 +55,6 @@ If you are interested in deploying AmpLabs in your own lab, you can do so with t
 
 ![Data Flow Design](https://github.com/amplabs-ai/amplabs/blob/main/img/dataflow.png)
 
-
-# Vision
-
-Standard data tools and practices built from the data hub standards will create a new data app marketplace.
-
-![Data Marketplace](https://github.com/amplabs-ai/amplabs/blob/main/img/marketplace.png)
 
 
 # How to Use
