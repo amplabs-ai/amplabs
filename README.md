@@ -10,7 +10,7 @@ We want to close the gaps on solved problems so that teams can focus on building
 
 # Problem Statement
 
-2 Fundamental Problems facing the Battery Industry as Identified in the [Battery Data Genome](https://arxiv.org/abs/2109.07278). 
+2 Fundamental Problems facing the Battery Industry as Identified in the [Principles of the Battery Data Genome](https://arxiv.org/abs/2109.07278). 
 
 **Heterogeneity**
 
