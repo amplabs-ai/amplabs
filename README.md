@@ -53,18 +53,22 @@ Try out the live hosted version of AmpLabs by visiting https://amplabs.ai
 
 If you are interested in deploying AmpLabs in your own lab, you can do so with the [Ampcloud Service](https://github.com/amplabs-ai/ampcloud-service)
 
+# Design
+
 ![Data Flow Design](https://github.com/amplabs-ai/amplabs/blob/main/img/dataflow.png)
-
-
 
 # How to Use
 
-AmpLabs is a cloud platform. The platform can be accessed by visiting https://amplabs.ai or via AmpLabs API. Information about how AmpLabs API works can be found on [AmpLabs API Docs](http://amplabs.ai/api/). Each of the following examples show how to interact with AmpLabs API to do useful work.
+## Managed Service
+AmpLabs is a cloud platform that can be accessed by visiting https://amplabs.ai. There you can familiarize yourself with the components included in the project. We are actively working on allowing for self-service deployment of AmpLabs into your own cloud account. In the mean time, if you're interested in deploying AmpLabs into your own cloud account, please contact us ask@amplabs.ai. 
 
-This repository contains worked examples of how to integrate into AmpLabs Cloud from various systems using the AmpLabs API. If there are systems you'd like AmpLabs to integrate into please start by filing a GitHub Issue
-
+## Open Source Cloud Platform
+If you are interested in either deploying the cloud service from source or using components such as the Cycler Connector Library please visit [AmpCloud Service](https://github.com/amplabs-ai/ampcloud-service)
 
 ## Examples
+
+### API Integration
+Information about how AmpLabs API works can be found on [AmpLabs API Docs](http://amplabs.ai/api/). Each of the below examples show how to interact with AmpLabs API to do useful work.
 
 ### Python Examples
 
@@ -85,7 +89,3 @@ The below examples are matlab files that can run on a matlab instance.
 
 All great contributions start with an ticket. If you have features you would like to see it's best to start with filing a github ticket describing what you want the new feature to be. Then we can discuss how to best design and develop it.
 
-
-# Deployment
-
-If you're interested in hosting your own deployment of AmpLabs for your own battery data project, please email ask@amplabs.ai.
