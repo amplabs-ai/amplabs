@@ -43,7 +43,7 @@ Build a library of **reusable components** that develop software & data standard
 
 Standard data tools and practices built from the data hub standards will create a new data app marketplace.
 
-![Data Marketplace](https://github.com/amplabs-ai/amplabs/blob/main/img/marketplace.png)
+![Data Marketplace](https://github.com/amplabs-ai/amplabs/blob/main/img/data_marketplace.png)
 
 # AmpLabs Platform
 
