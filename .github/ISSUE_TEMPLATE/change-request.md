@@ -1,5 +1,5 @@
 ---
-name: Change Request template
+name: Change Request
 about: Submit a change to an existing feature
 title: ''
 labels: ''
