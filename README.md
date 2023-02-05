@@ -4,7 +4,7 @@
 
 This repo serves as the Home Page for the AmpLabs Community. There are many ways to participate in the community development process. 
 
-1. Star the AmpLabs GitHub repo 
+1. Star this GitHub repo
 2. Read through AmpLabs documentation
 3. Propose any changes as issues 
 4. Raise any questions on GitHub discussions
