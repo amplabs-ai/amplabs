@@ -6,16 +6,13 @@ This repo serves as the Home Page for the AmpLabs Community. There are many ways
 
 1. Star this GitHub repo
 2. Read through AmpLabs documentation
-3. Propose any changes as issues 
-4. Raise any questions on GitHub discussions
+3. Propose any changes as [GitHub Issues](https://github.com/amplabs-ai/amplabs/issues) 
+4. Raise any questions on [GitHub Discussions](https://github.com/amplabs-ai/amplabs/discussions)
 5. Try the [AmpLabs Examples](#how-to-use)
+6. Check out [AmpLabs Cloud Service](https://amplabs.ai) to see a managed version of the application running on AWS
+7. If you are interested in developing the software for the AmpLabs Cloud Service, please visit [AmpLabs Cloud Service GitHub Repo](https://github.com/amplabs-ai/ampcloud-service)
+8. Attend [Community Meetings](https://github.com/amplabs-ai/amplabs/wiki)
 
-
-More information about how to Contribute Code Changes or Documentation Edits can be found in the [How to Contribute](#how-to-contribute) section
-
-* If you are interested in how AmpLabs Cloud Service looks when running, you can see a managed version of the application running on [AmpLabs Cloud Service](https://amplabs.ai)
-
-* If you are interested in participating in the Community to develop software or to develop documentation, please visit [AmpLabs Cloud Service GitHub Repo](https://github.com/amplabs-ai/ampcloud-service)
 
 
 # Table of Contents
