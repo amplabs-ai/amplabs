@@ -4,7 +4,14 @@
 
 This repo serves as the Home Page for the AmpLabs Community. There are many ways to participate in the community development process. 
 
-* More information about how to Contribute Code Changes or Documentation Edits can be found in the [How to Contribute](#how-to-contribute) section
+1. Star the AmpLabs GitHub repo 
+2. Read through AmpLabs documentation
+3. Propose any changes as issues 
+4. Raise any questions on GitHub discussions
+5. Try the [AmpLabs Examples](#how-to-use)
+
+
+More information about how to Contribute Code Changes or Documentation Edits can be found in the [How to Contribute](#how-to-contribute) section
 
 * If you are interested in how AmpLabs Cloud Service looks when running, you can see a managed version of the application running on [AmpLabs Cloud Service](https://amplabs.ai)
 
@@ -102,13 +109,13 @@ The below examples are hosted in Google Colab, an environment that helps users r
 
 #### MATLAB Examples
 
-The below examples are matlab files that can run on a matlab instance.
+The below examples are matlab files that can run on a computer with an active MATLAB license and application installed.
 
 1. [Basic Plotting](https://github.com/amplabs-ai/examples/blob/main/matlab/basic_plot.m)
 
 # How to Contribute
 
-All great contributions start with an ticket.  
+Thank you for your interest in contributing to the AmpLabs Community.
 
 If you know what feature you would like to see, please create a GitHub Issue.
 * To contribute changes to the documents or code base, visit [GitHub Issues](https://github.com/amplabs-ai/amplabs/issues)
