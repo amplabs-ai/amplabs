@@ -108,8 +108,11 @@ The below examples are matlab files that can run on a matlab instance.
 
 # How to Contribute
 
-All great contributions start with an ticket. If you have features you would like to see it's best to start with filing a github ticket describing what you want the new feature to be. Then we can discuss how to best design and develop it.
+All great contributions start with an ticket.  
 
+If you know what feature you would like to see, please create a GitHub Issue.
+* To contribute changes to the documents or code base, visit [GitHub Issues](https://github.com/amplabs-ai/amplabs/issues)
+
+If you have an idea or topic you would like the community to discuss, please create a GitHub Discussion. 
 * To contribute ideas and discuss with the community, visit [GitHub Discussions](https://github.com/amplabs-ai/amplabs/discussions)
 
-* To contribute changes to the documents or code base, visit [GitHub Issues](https://github.com/amplabs-ai/amplabs/issues)
