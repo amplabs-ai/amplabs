@@ -16,7 +16,7 @@ This repo serves as the Home Page for the AmpLabs Community. There are many ways
 If you are interested in contributing changes today, a list of current To Do Items can be found on [GitHub Issues](https://github.com/amplabs-ai/amplabs/issues). (Issues are tasks that need to be completed)
 1. Assign a [GitHub Issue](https://github.com/amplabs-ai/amplabs/issues) to yourself that you are comfortable with completing.
 2. [Fork the repo](https://github.com/amplabs-ai/amplabs/fork) and/or create a new branch
-3. Make the required changes. If anything in the Issue is unclear, please comment on the Issue directly
+3. Make the required changes. If anything in the Issue is unclear, please comment on the Issue directly 
 4. Submit a [Pull Request (PR)](https://github.com/amplabs-ai/amplabs/pulls) against the main branch
 5. Await Review from a Maintainer.
 
