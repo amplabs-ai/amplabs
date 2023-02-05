@@ -12,6 +12,7 @@ This repo serves as the Home Page for the AmpLabs Community. There are many ways
 6. Check out [AmpLabs Cloud Service](https://amplabs.ai) to see a managed version of the application running on AWS
 7. If you are interested in developing the software for the AmpLabs Cloud Service, please visit [AmpLabs Cloud Service GitHub Repo](https://github.com/amplabs-ai/ampcloud-service)
 8. Attend [Community Meetings](https://github.com/amplabs-ai/amplabs/wiki)
+9. Share your experience on [LinkedIn](https://www.linkedin.com/company/amp-labs/)!
 
 If you are interested in contributing changes today, a list of current To Do Items can be found on [GitHub Issues](https://github.com/amplabs-ai/amplabs/issues). (Issues are tasks that need to be completed).  
 
