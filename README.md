@@ -1,3 +1,35 @@
+
+
+# Quick Start
+
+This repo serves as the Home Page for the AmpLabs Community. There are many ways to participate in the community development process. 
+
+1. Star this GitHub repo
+2. Read through AmpLabs documentation
+3. Propose any changes as [GitHub Issues](https://github.com/amplabs-ai/amplabs/issues) 
+4. Raise any questions or general comments on [GitHub Discussions](https://github.com/amplabs-ai/amplabs/discussions)
+5. Try the [AmpLabs Examples](#how-to-use)
+6. Check out [AmpLabs Cloud Service](https://amplabs.ai) to see a managed version of the application running on AWS
+7. If you are interested in developing the software for the AmpLabs Cloud Service, please visit [AmpLabs Cloud Service GitHub Repo](https://github.com/amplabs-ai/ampcloud-service)
+8. Attend [Community Meetings](https://github.com/amplabs-ai/amplabs/wiki)
+
+If you are interested in contributing changes today, a list of current To Do Items can be found on [GitHub Issues](https://github.com/amplabs-ai/amplabs/issues). (Issues are tasks that need to be completed)
+1. Assign a [GitHub Issue](https://github.com/amplabs-ai/amplabs/issues) to yourself that you are comfortable with completing.
+2. [Fork the repo](https://github.com/amplabs-ai/amplabs/fork) and/or create a new branch
+3. Make the required changes. If anything in the Issue is unclear, please comment on the Issue directly
+4. Submit a [Pull Request (PR)](https://github.com/amplabs-ai/amplabs/pulls) against the main branch
+5. Await Review from a Maintainer.
+
+Cheers!
+
+# Table of Contents
+
+[About Us](#about-us)
+
+[AmpLabs Platform](#amplabs-platform)
+
+[How to Contribute](#how-to-contribute)
+
 # About Us
 
 AmpLabs helps teams build better batteries. 
@@ -8,7 +40,7 @@ We want to close the gaps on solved problems so that teams can focus on building
 
 [AmpLabs Community Slideshow](https://docs.google.com/presentation/d/19xpzwuIjc5TQ-UhNoNxo6E7rfe10jLcAs54MrOwRJSo/edit?usp=sharing)
 
-# Problem Statement
+## Problem Statement
 
 2 Fundamental Problems facing the Battery Industry as Identified in the [Principles of the Battery Data Genome](https://arxiv.org/abs/2109.07278). 
 
@@ -20,7 +52,7 @@ We want to close the gaps on solved problems so that teams can focus on building
 
 > Modern data science methods require large amounts of data and the battery community lacks the requisite scalable, standardized data hubs required for immediate use of these approaches. Lack of uniform data practices is a central barrier to the scale problem.
 
-# Project Objectives
+## Project Objectives
 
 Build useful software that **anyone** who works with batteries can use
 
@@ -28,7 +60,7 @@ Build a sturdy **foundation** upon which other developers can build on top
 
 Build a library of **reusable components** that develop software & data standards
 
-# Key Areas of Focus
+## Key Areas of Focus
 
 - Library of Cycler Converters
 
@@ -39,7 +71,7 @@ Build a library of **reusable components** that develop software & data standard
 - Dashboard with Standard Plots
 
 
-# Milestones
+## Milestones
 
 Standard data tools and practices built from the data hub standards will create a new data app marketplace.
 
@@ -47,30 +79,30 @@ Standard data tools and practices built from the data hub standards will create 
 
 # AmpLabs Platform
 
-Built off of the [Battery Lifecycle Framework](https://github.com/battery-lcf) with integrations into other community projects such as [BEEP](https://github.com/TRI-AMDD/beep) and [Galvanalyser](https://github.com/Battery-Intelligence-Lab/galvanalyser). AmpLabs puts these components together in a scalable and performant way to bring the concepts introduced by the [Battery Data Genome](https://arxiv.org/abs/2109.07278) in a user friendly manner. 
+Inspired by [Battery Lifecycle Framework](https://github.com/battery-lcf) with integrations into other community projects such as [BEEP](https://github.com/TRI-AMDD/beep) and [Galvanalyser](https://github.com/Battery-Intelligence-Lab/galvanalyser). AmpLabs puts these components together in a scalable and performant way to bring the concepts introduced by the [Battery Data Genome](https://arxiv.org/abs/2109.07278) in a user friendly manner. 
 
 Try out the live hosted version of AmpLabs by visiting https://amplabs.ai
 
 If you are interested in deploying AmpLabs in your own lab, you can do so with the [Ampcloud Service](https://github.com/amplabs-ai/ampcloud-service)
 
-# Design
+## Design
 
 ![Data Flow Design](https://github.com/amplabs-ai/amplabs/blob/main/img/dataflow.png)
 
-# How to Use
+## How to Use
 
-## Managed Service
+### Managed Service
 AmpLabs is a cloud platform that can be accessed by visiting https://amplabs.ai. There you can familiarize yourself with the components included in the project. We are actively working on allowing for self-service deployment of AmpLabs into your own cloud account. In the mean time, if you're interested in deploying AmpLabs into your own cloud account, please contact us ask@amplabs.ai. 
 
-## Open Source Cloud Platform
+### Open Source Cloud Platform
 If you are interested in either deploying the cloud service from source or using components such as the Cycler Connector Library please visit [AmpCloud Service](https://github.com/amplabs-ai/ampcloud-service)
 
-## Examples
+### Examples
 
-### API Integration
+#### API Integration
 Information about how AmpLabs API works can be found on [AmpLabs API Docs](http://amplabs.ai/api/). Each of the below examples show how to interact with AmpLabs API to do useful work.
 
-### Python Examples
+#### Python Examples
 
 The below examples are hosted in Google Colab, an environment that helps users run Jupyter notebooks with no setup required. These examples are implemented in python but the concepts can be applied to any language. 
 
@@ -79,13 +111,19 @@ The below examples are hosted in Google Colab, an environment that helps users r
 2. [Experiments vs Simulation](https://colab.research.google.com/drive/1gSOjMaVLE24EBzHxe0wx6QP-9rSrWOPc?usp=sharing)
 
 
-### MATLAB Examples
+#### MATLAB Examples
 
-The below examples are matlab files that can run on a matlab instance.
+The below examples are matlab files that can run on a computer with an active MATLAB license and application installed.
 
 1. [Basic Plotting](https://github.com/amplabs-ai/examples/blob/main/matlab/basic_plot.m)
 
 # How to Contribute
 
-All great contributions start with an ticket. If you have features you would like to see it's best to start with filing a github ticket describing what you want the new feature to be. Then we can discuss how to best design and develop it.
+Thank you for your interest in contributing to the AmpLabs Community.
+
+If you know what feature you would like to see, please create a GitHub Issue.
+* To contribute changes to the documents or code base, visit [GitHub Issues](https://github.com/amplabs-ai/amplabs/issues)
+
+If you have an idea or topic you would like the community to discuss, please create a GitHub Discussion. 
+* To contribute ideas and discuss with the community, visit [GitHub Discussions](https://github.com/amplabs-ai/amplabs/discussions)
 
