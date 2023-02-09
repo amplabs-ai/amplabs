@@ -1,13 +1,6 @@
-# How to Contribute
+# Contribute
 
-Thank you for your interest in contributing to our community. All great contributions start with an ticket. If you have features you would like to see it's best to start with filing a github ticket describing what you want the new feature to be. Then we can discuss how to best design and develop it.
-
-* To contribute ideas and discuss with the community, visit [GitHub Discussions](https://github.com/amplabs-ai/amplabs/discussions)
-
-* To contribute changes to the documents or code base, visit [GitHub Issues](https://github.com/amplabs-ai/amplabs/issues)
-
-
-
+If you are interested in contributing changes today, a list of current To Do Items can be found on [GitHub Issues](https://github.com/amplabs-ai/amplabs/issues). (Issues are tasks that need to be completed). Active discussions can be found in [GitHub Discussions](https://github.com/amplabs-ai/amplabs/discussions)
 
 
 <strong>*New to Git and Github? Here's your how-to of contributing to a Github repo!*</strong>
