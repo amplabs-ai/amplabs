@@ -1,7 +1,5 @@
 ## Analyzing and Manipulating Data with The PyData Stack
 
-Hello,
-
 Below are the Colab examples presented at Materials Research Society (MRS) 2022 Fall Meeting. Each of these examples are run using Google Colab. 
 
 Colab, or "Colaboratory", allows you to write and execute Python in your browser, with
