@@ -8,6 +8,6 @@ Google Colab, or "Google Colaboratory", allows you to write and execute Python i
 - Easy sharing
 
 
-[Example 0. Intro to APIs - Jupyter Notebook Demo](https://colab.research.google.com/drive/1I0_EJR6uNo0hpLHfz46oP8szLPNwMboI?usp=sharing)
+[Example 1. AmpLabs Basic Plottings - Jupyter Notebook Demo](https://colab.research.google.com/github/amplabs-ai/amplabs/blob/main/python/AmpLabs_Example_Basic_Plotting.ipynb)
 
-[Example 1. Simple Manipulations - Jupyter Notebook Demo](https://colab.research.google.com/drive/1AlV8EVjGv4gtwIXgWpz9GJWD-fbkR-VR?usp=sharing)
+[Example 2. AmpLabs Basic Plottings - Jupyter Notebook Demo](https://colab.research.google.com/github/amplabs-ai/amplabs/blob/main/python/AmpLabs_Example_Basic_Plotting.ipynb)
