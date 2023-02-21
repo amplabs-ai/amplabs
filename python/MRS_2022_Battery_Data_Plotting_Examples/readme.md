@@ -2,7 +2,7 @@
 
 Below are the Colab examples presented at Materials Research Society (MRS) 2022 Fall Meeting. Each of these examples are run using Google Colab. 
 
-Colab, or "Colaboratory", allows you to write and execute Python in your browser, with
+Google Colab, or "Google Colaboratory", allows you to write and execute Python in your browser, with
 - Zero configuration required
 - Access to GPUs free of charge
 - Easy sharing
