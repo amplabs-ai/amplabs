@@ -2,11 +2,14 @@
 
 # Welcome!
 
-This repo serves as the Home Page for the AmpLabs Community. There are many ways to participate in the community development process. All contributions are welcome, feel free to start today!
+This repo serves as the Home Page for the AmpLabs Community. You can find example and how to guides on how to get started with our tools. If you work with battery data in any capacity, you have come to the right place. There are many ways to participate in the community development process. All contributions are welcome, feel free to start today!
 
+If you would like to learn more about our community project check out our [AmpLabs Community Documentation](https://amplabs.readthedocs.io/en/latest/)
+
+### Getting Started Checklist
 1. Star this GitHub repo
 2. Read through [AmpLabs Community Documentation](https://amplabs.readthedocs.io/en/latest/)
-3. Anything you see is wrong or would like to see different on any amplabs repo, please propose any changes on the corresponding repo. For issues with the amplabs repo, please submit them on [GitHub Issue](https://github.com/amplabs-ai/amplabs/issues)
+3. Anything you see is wrong or would like to see different on any amplabs project, please propose any changes on the corresponding repo. For issues with the amplabs repo, please submit them on [GitHub Issue](https://github.com/amplabs-ai/amplabs/issues)
 4. Any open ended questions or general comments can be added to [GitHub Discussions](https://github.com/amplabs-ai/amplabs/discussions).
 5. Try the [AmpLabs Python Examples](https://github.com/amplabs-ai/amplabs/tree/main/python)
 6. Check out [AmpLabs Cloud Service](https://amplabs.ai) to see a managed version of the application running on AWS
@@ -26,4 +29,3 @@ Cheers!
 
 Note: Feel free to @ mention users as AmpLabs development is largely asynchronous and includes people across multiple timezones, this is a great way to get people's attention onto new or pressing items.
 
-If you would like to learn more about our community project check out our [AmpLabs Community Documentation](https://amplabs.readthedocs.io/en/latest/)
