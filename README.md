@@ -1,12 +1,12 @@
 
 
-# Welcome!
+# Welcome to the AmpLabs Community!
 
-This repo serves as the Home Page for the AmpLabs Community. You can find example and how to guides on how to get started with our tools. If you work with battery data in any capacity, you have come to the right place. There are many ways to participate in the community development process. All contributions are welcome, feel free to start today!
+If you work with battery data in any capacity, you have come to the right place. In this repo, you can find worked examples and how-to guides on how to get started with the AmpLabs Toolkit.  As AmpLabs is an Open Source project, all of the code to power the applications can be found here. There are many ways to participate in the community development process. All contributions are welcome, feel free to start today!
 
-If you would like to learn more about our community project check out our [AmpLabs Community Documentation](https://amplabs.readthedocs.io/en/latest/)
+If you would like to learn more about the background to our community project, please check out the [AmpLabs Community Documentation](https://amplabs.readthedocs.io/en/latest/)
 
-### Getting Started Checklist
+### Contribution Checklist
 1. Star this GitHub repo
 2. Read through [AmpLabs Community Documentation](https://amplabs.readthedocs.io/en/latest/)
 3. Anything you see is wrong or would like to see different on any amplabs project, please propose any changes on the corresponding repo. For issues with the amplabs repo, please submit them on [GitHub Issue](https://github.com/amplabs-ai/amplabs/issues)
