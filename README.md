@@ -9,8 +9,8 @@ If you would like to learn more about the background to our community project, p
 ### Contribution Checklist
 1. Star this GitHub repo
 2. Read through [AmpLabs Community Documentation](https://amplabs.readthedocs.io/en/latest/)
-3. Anything you see is wrong or would like to see different on any amplabs project, please propose any changes on the corresponding repo. For issues with the amplabs repo, please submit them on [GitHub Issue](https://github.com/amplabs-ai/amplabs/issues)
-4. Any open ended questions or general comments can be added to [GitHub Discussions](https://github.com/amplabs-ai/amplabs/discussions).
+3. If you would like to propose a change, please do so on the corresponding repo. Please submit change requests to this repo on [AmpLabs GitHub Issue](https://github.com/amplabs-ai/amplabs/issues)
+4. Any open ended questions or general comments can be added to [AmpLabs GitHub Discussions](https://github.com/amplabs-ai/amplabs/discussions).
 5. Try the [AmpLabs Python Examples](https://github.com/amplabs-ai/amplabs/tree/main/python)
 6. Check out [AmpLabs Cloud Service](https://amplabs.ai) to see a managed version of the application running on AWS
 7. If you are interested in developing the software for the AmpLabs Cloud Service, please visit [AmpLabs Cloud Service GitHub Repo](https://github.com/amplabs-ai/ampcloud-service)
