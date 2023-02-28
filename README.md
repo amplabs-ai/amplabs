@@ -4,7 +4,7 @@
 
 If you work with battery data in any capacity, you have come to the right place. In this repo, you can find worked examples and how-to guides on how to get started with the AmpLabs Toolkit.  As AmpLabs is an Open Source project, all of the code to power the applications can be found here. There are many ways to participate in the community development process. All contributions are welcome, feel free to start today!
 
-If you would like to learn more about the background to our community project, please check out the [AmpLabs Community Documentation](https://amplabs.readthedocs.io/en/latest/)
+If you would like to learn more about the background of our community project, please check out the [AmpLabs Community Documentation](https://amplabs.readthedocs.io/en/latest/)
 
 ### Contribution Checklist
 1. Star this GitHub repo
