@@ -1,6 +1,6 @@
 
 
-# Welcome to the AmpLabs Community!
+# Welcome!
 
 If you work with battery data in any capacity, you have come to the right place. In this repo, you can find worked examples and how-to guides on how to get started with the AmpLabs Toolkit.  As AmpLabs is an Open Source project, we are powered by contributions from the community. There are many ways to participate in the community development process. All contributions are welcome, feel free to start today!
 
