@@ -1,6 +1,6 @@
 # Instructions of Using the Battery Data Plotting Examples in this Python Folder
 
-##Running in Local Jupyter Notebook
+## Running in Local Jupyter Notebook
 
 - Step 1: Create a new folder within your local environment named "test files". This folder name has been included in the ".gitignore" file, and any document edits within the "test files" folder will not affect the GitHub repository's workflow.
 - Step 2: Copies the one of the Python example ".ipynb" files from the example folders into the "test files" folder.
@@ -8,7 +8,7 @@
 - Step 4: Follow the instructions to add "user_token" and "cell_id" below.
 
 
-##Running in Google Colab
+## Running in Google Colab
 
 - Step 1: Open one of the Python example ".ipynb" file
 - Step 2: Click the "Open in Colab" button on top of the ".ipynb" file
@@ -16,7 +16,7 @@
 - Step 4: Follow the instructions to add "user_token" and "cell_id" below.
 
 
-##Add "user_token" and "cell_id" 
+## Add "user_token" and "cell_id" 
 
 - Step 1: Go to the "[amplabs.ai](https://amplabs.ai)" website, and click "try Amplabs Cloud".
 - Step 2: Sign up and log into Amplabs Cloud. There, on the top right menu, click "get API token".
