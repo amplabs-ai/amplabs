@@ -20,7 +20,7 @@
 
 - Step 1: Go to the "[amplabs.ai](https://amplabs.ai)" website, and click "try Amplabs Cloud".
 - Step 2: Sign up and log into Amplabs Cloud. There, on the top right menu, click "get API token".
-- Step 3: Copied the token into the "ipynb" file in Jupyter notebook or Google Colab to replace the "<your-token>" in the "user_token = '<your-token>' " line. 
+- Step 3: Copied the token into the "ipynb" file in Jupyter notebook or Google Colab to replace the "your-token" in the "user_token = 'your-token' " line. 
 - Step 4: In the Amplabs Cloud page that has been logged in, choose a sample at the left side of the webpage and click "Load" at the top left.
 - Step 5: Copy the "Cell Id" and paste it into the "ipynb" file in Jupyter notebook or Google Colab to replace the "your-cell-id" in the "cell_id = 'your-cell-id'" line. 
 
