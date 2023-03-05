@@ -1,4 +1,4 @@
-## Instructions of Using the Battery Data Plotting Examples in this Python Folder
+# Instructions of Using the Battery Data Plotting Examples in this Python Folder
 
 Running in Local Jupyter Notebook
 
