@@ -75,6 +75,7 @@ Producer
 
 .. toctree::
     :maxdepth: 2
+    :hidden:
 
     producer
 
@@ -87,6 +88,7 @@ Agent
 
 .. toctree::
     :maxdepth: 2
+    :hidden:
 
     agent
 
@@ -102,6 +104,7 @@ Warehouse
 
 .. toctree::
     :maxdepth: 2
+    :hidden:
 
     warehouse
 
