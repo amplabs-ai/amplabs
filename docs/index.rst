@@ -1,8 +1,6 @@
 Welcome to AmpLabs Documation
 ========================
 
-* :ref:`site-docs`
-
 .. _site-docs: 
 
 User Documentation
