@@ -1,7 +1,15 @@
+Welcome to AmpLabs Documation
+========================
+
+* :ref:`site-docs`
+
+.. _site-docs: 
+
+User Documentation
+------------------
+
 .. toctree::
-   :maxdepth: 2
-   :caption: Contents:
-   subdir/file
+    :maxdepth: 2
 
-
-Home
+    getting_started
+    
