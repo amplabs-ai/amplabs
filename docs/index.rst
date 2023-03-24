@@ -122,6 +122,7 @@ Client
 
 .. toctree::
     :maxdepth: 2
+    :hidden:
 
     client
 
