@@ -1,2 +1,2 @@
-User Documentation
+Getting Started
 =============
