@@ -4,6 +4,7 @@ Welcome to AmpLabs Documation
 .. contents:: Table of Contents
 
 
+
 About Us
 ================
 
@@ -69,33 +70,42 @@ How AmpLabs' Software is organized?
 
 .. _site-docs: 
 
-Producers
+Producer
 ------------------
-1. What cyclers are supported?
-2. What columns are required from each type of cycler? What units are expected?
-
 
 .. toctree::
     :maxdepth: 2
-    
-    producers
+
+    producer
+
+1. What cyclers are supported?
+2. What columns are required from each type of cycler? What units are expected?
     
 
 Agent
 ----------------
+
+.. toctree::
+    :maxdepth: 2
+
+    agent
+
+
 1. How do I configure or tell the agent where to look for data
 	1. File based systems
 	2. SQL based systems
 2. What triggers a data collection event? is there a user defined schedule? Is the user supposed to kick off individual jobs?
 3. How does the agent handle ongoing tests?
 
-.. toctree::
-    :maxdepth: 2
-    
-    agent
-
 Warehouse
 ----------------
+
+.. toctree::
+    :maxdepth: 2
+
+    warehouse
+
+
 1. Where is my data stored?
 2. Can I use my own instance of SQL (or whatever database technology the project uses).
 3. Is the schema exposed? i.e. can I query the warehouse directly?
@@ -106,18 +116,15 @@ I propose the following instructions.
 
 For a new user to start, the new user should get Amplabs "user_token" and "cell_id" first. 
 
-.. toctree::
-    :maxdepth: 2
-    
-    warehouse
 
 Client
 ----------------
+
 .. toctree::
     :maxdepth: 2
-    
+
     client
-    
+
 What is a Client?
 
 
