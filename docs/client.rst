@@ -1,2 +1,2 @@
-Client
+Jupyter Examples
 =========
