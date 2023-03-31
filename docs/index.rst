@@ -135,8 +135,7 @@ Client
 
 The main purpose of the Client is to provide easy access to the data for users. The Client includes tools with which a user can simply select what battery data they want to plot, and then the tools output that battery data plot. 
 
-Access the Amplabs Client https://github.com/amplabs-ai/amplabs/blob/main/docs/client.rst
-
+Access the `Amplabs Client <https://github.com/amplabs-ai/amplabs/blob/main/docs/client.rst>`_
 
 
 
