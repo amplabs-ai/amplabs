@@ -26,6 +26,13 @@ After getting Amplabs' "user_token" and "cell_id," using the Amplabs battery dat
 How to Use Jupyter Notebook Example
 ---------
 
+If you don't know what Jupyter Notebook is, it is a tool that makes Python easier to program. To install Jupyter notebook, there are 2 options below:
+
+* Open a terminal, type "pip install jupyter". Once installed, type "jupyter notebook" in the terminal to open Jupyter notebook.
+* Open a terminal, type "pip install jupyterlab". Once installed, type "jupyter-lab" in the terminal to open Jupyter Lab.
+
+The first option is recommended for its ease to use, but any option is fine.
+
 This modified jupyter notebook file has the following functionalities:
 
 * Ask the user to input the "user_token" and "cell_id” at the very beginning, so that the user is clear that without the "user_token" and "cell_id”, the process of accessing Amplabs battery data using the  jupyter notebook codes cannot continue
