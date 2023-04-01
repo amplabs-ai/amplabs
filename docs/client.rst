@@ -17,7 +17,7 @@ How to add "user_token" and "cell_id" to your code snippet.
 5. Copy the "Cell Id" and paste it into the "ipynb" file in Jupyter notebook or Google Colab to replace the "your-cell-id" in the "cell_id = 'your-cell-id'" line.
 
 
-After getting Amplabs' "user_token" and "cell_id," using the Amplabs battery data visualization `jupyter notebook <https://drive.google.com/file/d/1k3aeuA3-FXQnfXHgm3WP6SgMEpziFgMM/view?usp=share_link>`__file is the next step. 
+After getting Amplabs' "user_token" and "cell_id," using the Amplabs battery data visualization `Jupyter notebook <https://drive.google.com/file/d/1k3aeuA3-FXQnfXHgm3WP6SgMEpziFgMM/view?usp=share_link>`__ file is the next step. 
 
 
 This modified jupyter notebook file has the following functionalities:
