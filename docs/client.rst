@@ -1,6 +1,8 @@
 Client
 =========
 
+For a new user to start, the new user should get Amplabs "user_token" and "cell_id" first.
+
 
 How to add "user_token" and "cell_id" to your code snippet.
 
@@ -15,8 +17,10 @@ How to add "user_token" and "cell_id" to your code snippet.
 5. Copy the "Cell Id" and paste it into the "ipynb" file in Jupyter notebook or Google Colab to replace the "your-cell-id" in the "cell_id = 'your-cell-id'" line.
 
 
-I have modified the jupyter notebook codes in the “amplabs/python/” folder. The modified jupyter notebook file can be accessed here 
-`jupyter notebook <https://drive.google.com/file/d/1k3aeuA3-FXQnfXHgm3WP6SgMEpziFgMM/view?usp=share_link>`__. This modified jupyter notebook file has the following functionalities:
+After getting Amplabs' "user_token" and "cell_id," using the Amplabs battery data visualization `jupyter notebook <https://drive.google.com/file/d/1k3aeuA3-FXQnfXHgm3WP6SgMEpziFgMM/view?usp=share_link>`__file is the next step. 
+
+
+This modified jupyter notebook file has the following functionalities:
 
 * Ask the user to input the "user_token" and "cell_id” at the very beginning, so that the user is clear that without the "user_token" and "cell_id”, the process of accessing Amplabs battery data using the  jupyter notebook codes cannot continue
 
