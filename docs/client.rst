@@ -23,7 +23,7 @@ How to add "user_token" and "cell_id" to your code snippet.
 After getting Amplabs' "user_token" and "cell_id," using the Amplabs battery data visualization `Jupyter notebook <https://drive.google.com/file/d/1k3aeuA3-FXQnfXHgm3WP6SgMEpziFgMM/view?usp=share_link>`__ file is the next step. 
 
 
-How to Use Jupyter Notebook Example
+Installing Jupyter Notebook
 ---------
 
 If you don't know what Jupyter Notebook is, it is a tool that makes Python easier to program. To install Jupyter notebook, there are 2 options below:
@@ -33,7 +33,10 @@ If you don't know what Jupyter Notebook is, it is a tool that makes Python easie
 
 The first option is recommended for its ease to use, but any option is fine.
 
-This modified jupyter notebook file has the following functionalities:
+How to Use Jupyter Notebook Example
+---------
+
+* Open the `Jupyter notebook <https://drive.google.com/file/d/1k3aeuA3-FXQnfXHgm3WP6SgMEpziFgMM/view?usp=share_link>`__ file in the Jupyter notebook program.
 
 * Ask the user to input the "user_token" and "cell_id” at the very beginning, so that the user is clear that without the "user_token" and "cell_id”, the process of accessing Amplabs battery data using the  jupyter notebook codes cannot continue
 
