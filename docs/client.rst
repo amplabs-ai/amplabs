@@ -1,6 +1,9 @@
 Client
 =========
 
+Getting User Token and Cell ID
+---------
+
 For a new user to start, the new user should get Amplabs "user_token" and "cell_id" first.
 
 
@@ -20,6 +23,9 @@ How to add "user_token" and "cell_id" to your code snippet.
 After getting Amplabs' "user_token" and "cell_id," using the Amplabs battery data visualization `Jupyter notebook <https://drive.google.com/file/d/1k3aeuA3-FXQnfXHgm3WP6SgMEpziFgMM/view?usp=share_link>`__ file is the next step. 
 
 
+How to Use Jupyter Notebook Example
+---------
+
 This modified jupyter notebook file has the following functionalities:
 
 * Ask the user to input the "user_token" and "cell_id” at the very beginning, so that the user is clear that without the "user_token" and "cell_id”, the process of accessing Amplabs battery data using the  jupyter notebook codes cannot continue
@@ -29,6 +35,3 @@ This modified jupyter notebook file has the following functionalities:
 * Output a list of column names for each of the “Amplabs timeseries data” and “Amplabs cycle data”
 
 * The user then only needs to define 3 things to get the data plots they want: data point number limit, x-axis column name, y-axis column name.
-
-Jupyter Examples
----------
