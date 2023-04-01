@@ -42,8 +42,4 @@ How to Use Jupyter Notebook Example
 
 * The Jupyter notebook file first asks the user to input the "user_token" and "cell_id” at the very beginning. Type your "user_token" and "cell_id”.
 
-* Describe the difference between “Amplabs timeseries data” and “Amplabs cycle data”
-
-* Output a list of column names for each of the “Amplabs timeseries data” and “Amplabs cycle data”
-
-* The user then only needs to define 3 things to get the data plots they want: data point number limit, x-axis column name, y-axis column name.
+* The Jupyter notebook file should have enough instructions on how to proceed. Some notable things that the Jupyter notebook file describes include the difference between “Amplabs timeseries data” and “Amplabs cycle data,” and the fact that the user only needs to define 3 things to get the data plots they want: data point number limit, x-axis column name, y-axis column name.
