@@ -38,7 +38,9 @@ How to Use Jupyter Notebook Example
 
 * Open the `Jupyter notebook <https://drive.google.com/file/d/1k3aeuA3-FXQnfXHgm3WP6SgMEpziFgMM/view?usp=share_link>`__ file in the Jupyter notebook program.
 
-* Ask the user to input the "user_token" and "cell_id” at the very beginning, so that the user is clear that without the "user_token" and "cell_id”, the process of accessing Amplabs battery data using the  jupyter notebook codes cannot continue
+* Click "run" in Jupyter notebook.
+
+* The Jupyter notebook file first asks the user to input the "user_token" and "cell_id” at the very beginning. Type your "user_token" and "cell_id”.
 
 * Describe the difference between “Amplabs timeseries data” and “Amplabs cycle data”
 
