@@ -68,6 +68,10 @@ Components
 
 How AmpLabs' Software is organized?
 
+AmpLabs' Software contains 5 parts: Producer, Agent, Warehouse, Client, and Consumer.
+
+The Producer creates the data. This would generally refer to something like a battery cycler or electric car that generates data about a battery. The Agent is responsible for cleaning and collecting that data, and uploading it to the central data Warehouse. An Agent would be run by the same person running the Producer, and the Warehouse is the central data store that enables the rest of the data analysis and sharing. A Client would be the application that gives a user easy access to their data. (It's worth nothing that in many cases, an Agent and Client may be a single package.) Finally the Consumer is the aforementioned end user, who is interested in exploring and analyzing the data.
+
 .. _site-docs: 
 
 Producer
@@ -129,32 +133,9 @@ Client
 
     client
 
-What is a Client?
+The main purpose of the Client is to provide easy access to the data for users. The Client includes tools with which a user can simply select what battery data they want to plot, and then the tools output that battery data plot. 
 
-
-How to add "user_token" and "cell_id" to your code snippet.
-
-1. Go to the `amplabs.ai <https://amplabs.ai>`__ website, and click "try Amplabs Cloud". 
-
-2. Sign up and log into Amplabs Cloud. There, on the top right menu, click "get API token".
-
-3. Copied the token into the "ipynb" file in Jupyter notebook or Google Colab to replace the "your-token" in the "user_token = 'your-token' " line. 
-
-4. In the Amplabs Cloud page that has been logged in, choose a sample at the left side of the webpage and click "Load" at the top left.
-
-5. Copy the "Cell Id" and paste it into the "ipynb" file in Jupyter notebook or Google Colab to replace the "your-cell-id" in the "cell_id = 'your-cell-id'" line.
-
-
-I have modified the jupyter notebook codes in the “amplabs/python/” folder. The modified jupyter notebook file can be accessed here 
-`jupyter notebook <https://drive.google.com/file/d/1k3aeuA3-FXQnfXHgm3WP6SgMEpziFgMM/view?usp=share_link>`__. This modified jupyter notebook file has the following functionalities:
-
-* Ask the user to input the "user_token" and "cell_id” at the very beginning, so that the user is clear that without the "user_token" and "cell_id”, the process of accessing Amplabs battery data using the  jupyter notebook codes cannot continue
-
-* Describe the difference between “Amplabs timeseries data” and “Amplabs cycle data”
-
-* Output a list of column names for each of the “Amplabs timeseries data” and “Amplabs cycle data”
-
-* The user then only needs to define 3 things to get the data plots they want: data point number limit, x-axis column name, y-axis column name.
+Access the `Amplabs Client <https://github.com/amplabs-ai/amplabs/blob/main/docs/client.rst>`_
 
 
 
