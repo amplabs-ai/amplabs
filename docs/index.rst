@@ -21,7 +21,7 @@ Problem Statement
 
 Inspired by `Battery Lifecycle Framework <https://github.com/battery-lcf>`__ with integrations into other community projects such as `BEEP <https://github.com/TRI-AMDD/beep>`__  and `Galvanalyser <https://github.com/Battery-Intelligence-Lab/galvanalyser>`_. AmpLabs puts these components together in a scalable and performant way to bring the concepts introduced by the `Battery Data Genome <https://arxiv.org/abs/2109.07278>`__ in a user friendly manner. 
 
-Try out the live hosted version of AmpLabs by visiting https://amplabs.ai
+Try out the live hosted version of AmpLabs by visiting https://app.amplabs.ai
 
 If you are interested in deploying AmpLabs in your own lab, you can do so with the `Ampcloud Service <https://github.com/amplabs-ai/ampcloud-service>`__
 
