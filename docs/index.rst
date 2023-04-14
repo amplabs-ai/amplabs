@@ -68,9 +68,17 @@ Components
 
 How AmpLabs' Software is organized?
 
-AmpLabs' Software contains 5 parts: Producer, Agent, Warehouse, Client, and Consumer.
+AmpLabs' Software Stack contains 5 conceptual components: Producer, Agent, Warehouse, Client, and Consumer.
 
-The Producer creates the data. This would generally refer to something like a battery cycler or electric car that generates data about a battery. The Agent is responsible for cleaning and collecting that data, and uploading it to the central data Warehouse. An Agent would be run by the same person running the Producer, and the Warehouse is the central data store that enables the rest of the data analysis and sharing. A Client would be the application that gives a user easy access to their data. (It's worth nothing that in many cases, an Agent and Client may be a single package.) Finally the Consumer is the aforementioned end user, who is interested in exploring and analyzing the data.
+The **Producer** creates the data. This would generally refer to something like a battery cycler or electric car that generates data about a battery. 
+
+The **Agent** is responsible for cleaning and collecting that data, and uploading it to the central data Warehouse. An Agent would be run by the same person running the Producer, and the **Warehouse** is the central data store that enables the rest of the data analysis and sharing. 
+
+A **Client** would be the application that gives a user easy access to their data. (It's worth nothing that in many cases, an Agent and Client may be a single package.) Finally the Consumer is the aforementioned end user, who is interested in exploring and analyzing the data.
+
+The components for the Agent, Warehouse, and Client are made real in the `ampcloud-service repo <https://github.com/amplabs-ai/ampcloud-service>`__
+
+More info for how the conceptual structure maps to specific code will be the focus for each of the following sections. 
 
 .. _site-docs: 
 
