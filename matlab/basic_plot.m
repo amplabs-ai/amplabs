@@ -1,4 +1,4 @@
-api = 'https://www.amplabs.ai/download/cells/cycle_data_json?cell_id=';
+api = 'https://www.app.amplabs.ai/download/cells/cycle_data_json?cell_id=';
 cell_name = 'SNL_18650_NMC_15C_0-100_0.5-1C_a';
 cell = [api cell_name];
 options = weboptions('KeyName','Cookie','KeyValue','userId=pghege@gmail.com','RequestMethod', 'get');
