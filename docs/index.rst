@@ -14,6 +14,11 @@ Building off of the great Open Source work related to the Battery Data Genome, w
 
 We want to close the gaps on solved problems so that teams can focus on building better batteries.  
 
+Try out the live hosted version of AmpLabs by visiting https://app.amplabs.ai
+
+If you are interested in deploying AmpLabs in your own lab, you can do so with the `Ampcloud Service <https://github.com/amplabs-ai/ampcloud-service>`__
+
+If you are interested in reviewing and giving feedback on the schema that AmpLabs natively runs, you can do so at `AmpLabs Battery Datafile (BDF) <https://docs.google.com/spreadsheets/d/16ytomQt4IYfFJ4HTBgOLZDwq2f2VZ_jsse9PSsr6m5Q/edit#gid=2117447761>`__
 
 Problem Statement
 ================
@@ -21,14 +26,8 @@ Problem Statement
 
 Inspired by `Battery Lifecycle Framework <https://github.com/battery-lcf>`__ with integrations into other community projects such as `BEEP <https://github.com/TRI-AMDD/beep>`__  and `Galvanalyser <https://github.com/Battery-Intelligence-Lab/galvanalyser>`_. AmpLabs puts these components together in a scalable and performant way to bring the concepts introduced by the `Battery Data Genome <https://arxiv.org/abs/2109.07278>`__ in a user friendly manner. 
 
-Try out the live hosted version of AmpLabs by visiting https://app.amplabs.ai
-
-If you are interested in deploying AmpLabs in your own lab, you can do so with the `Ampcloud Service <https://github.com/amplabs-ai/ampcloud-service>`__
-
-
 
 2 Fundamental Problems facing the Battery Industry as Identified in the `Principles of the Battery Data Genome <https://arxiv.org/abs/2109.07278>`__
-
 
 **Heterogeneity**
 
